@@ -57,6 +57,17 @@
 			justify-content: space-around;
 			text-align: center;
 		}
+
+		.infoContent .block h3
+		{
+			font-size: 1.3em;
+			margin: 5px 0 10px 0;
+			text-transform: uppercase;
+			letter-spacing: 3px;
+			font-weight:100;
+		}
+
+
 		.infoContent .block .icon-social{
 			font-size: 70px;
 		}
@@ -85,6 +96,9 @@
 		}
 		.btn:hover{
 			transform: scale(1.2);
+			letter-spacing: 3px;
+			background-color: #A3A1A1;
+			color: red;
 		}
 		img{
 			/*width: 150%;*/
