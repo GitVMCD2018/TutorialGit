@@ -28,9 +28,15 @@
 			font-family: "Raleway", sans-serif;
 		}
 		h1{
-			color: #d74932;
+			color:#DBDD24;
+			/*color:#d74932;*/
 			font-size: 50px !important;
-			text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+			text-shadow: 4px 4px 5px rgba(255,0,0,0.5);*/
+			/*OUTLINE EFFECTS
+			text-shadow:-1px -1px 0 #F00,
+					    1px -1px 0 #F00,
+					    -1px 1px 0 #F00,
+					    1px 1px 0 #F00;*/
 		}
 		p{
 			font-weight: 300;
@@ -40,6 +46,7 @@
 			color: red;
 			font-size: 80px !important;
 			text-shadow: 4px 4px 5px rgba(255,255,255,0.5);
+			margin-bottom: 1.2em;
 		}
 		.info{
 			text-align: center;
@@ -53,6 +60,18 @@
 		.infoContent .block .icon-social{
 			font-size: 70px;
 		}
+		.yt
+		{
+			color:#D92530;
+		}
+		.fb{
+			color: #3D5999;
+		}
+		.twt
+		{
+			color: #54ABEE;
+		}
+
 		.btn
 		{
 			padding: 0.5rem 1rem;
