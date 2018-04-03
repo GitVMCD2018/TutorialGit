@@ -55,10 +55,17 @@
 		}
 		.btn
 		{
-			padding: 0.5rem;
-			background: rgba(0,0,0,0.75);/* #c0b31c;*/
-			border: 1px solid rgba(255,0,0,0);
+			padding: 0.5rem 1rem;
 			border-radius: 5px;
+			border: rgb(255,0,0);
+			background: rgba(0,0,0,0.75);/* #c0b31c;*/
+			color: white;
+			margin: 10px 0;
+			display: inline-block;
+			transition: 0.3s;
+		}
+		.btn:hover{
+			transform: scale(1.2);
 		}
 		img{
 			/*width: 150%;*/
