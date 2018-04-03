@@ -56,8 +56,8 @@
 		.btn
 		{
 			padding: 0.5rem;
-			background: #c0b31c;
-			border: 1px rgb(255,0,0);
+			background: rgba(0,0,0,0.75);/* #c0b31c;*/
+			border: 1px solid rgba(255,0,0,0);
 			border-radius: 5px;
 		}
 		img{
